@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+
+body{
+    background-color:rgb(52 80 89 / 23%)
+}
+
+.header a {
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+}
+
+.header a:hover {
+    color: lightgoldenrodyellow;
+}
+
+.header a:visited {
+    color:  aqua;
+}
+
+.header a:active {
+    color: rgb(164 185 29) ;
+}
+
+.header {
+    font-size: 20px;
+    background-color: rgb(32 85 88);
+    border: 2px solid rgb(30 33 31);
+    padding-top: 0.25em;
+    padding-left: 0.25em;
+    font-weight: bold;
+    text-align: justify;
+    height: 2em;
+    border-radius: 20px;
+
+
+}
